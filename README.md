@@ -1,1 +1,1 @@
-# Quick Implementation of GRAPPA for MR Reconstruction
+# Quick Implementation of SENSE / GRAPPA for MR Reconstruction
